@@ -1,0 +1,65 @@
+body
+{
+	max-width: 70%;
+	margin: auto;
+}
+h3 {text-align: center;
+font-size:5em;}
+
+.about {text-align: center;}
+
+
+
+
+.container{
+
+}
+
+
+.imgContainer{
+display: flex;
+justify-content: center;
+}
+
+h1{
+	text-align: center;
+	font-size: 4mm;
+
+}
+
+.articleContainer
+{
+	display: flex;
+	flex-direction: row;
+	align-content: space-between;
+}
+
+.article
+{
+	max-width: 24%;
+}
+
+footer {text-align: center;}
+
+fa-bomb {text-align: center;}
+.about{
+	border-top:2px solid #000;
+}
+
+.about{border-bottom: 2px solid #000;}
+.about{border-right: 2px solid #000;}
+.about{border-left: 2px solid #000;}
+.about {padding: 30px;}
+
+.research p:nth-of-type(1)
+{
+	font-size: 1.1em;
+}
+.research p:nth-of-type(1)
+{
+	font-size: 0.9em;
+}
+
+.super{
+	font-weight: bold;
+}
